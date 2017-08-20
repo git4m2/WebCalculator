@@ -69,6 +69,9 @@
     <Content Include="CalculatorTests.html" />
     <Content Include="Content\default.css" />
     <Content Include="Content\qunit.css" />
+    <Content Include="ContactUs.html">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Images\AG00021_.GIF" />
     <Content Include="packages.config" />
     <None Include="Web.Debug.config">
